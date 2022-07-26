@@ -24,6 +24,6 @@ Tracking my progress through the course.
 
 #### Section 3: Flexing our muscles
 
-- Lessons 1 through 11 (of 15) complete
+- Complete!
 
 [Back To The Top](#flexbox-simplified)
