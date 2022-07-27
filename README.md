@@ -30,4 +30,8 @@ Tracking my progress through the course.
 
 - Complete!
 
+#### Section 5: Alignment and Justification
+
+- Complete!
+
 [Back To The Top](#flexbox-simplified)
