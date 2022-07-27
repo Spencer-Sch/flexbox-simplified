@@ -26,4 +26,8 @@ Tracking my progress through the course.
 
 - Complete!
 
+#### Section 4: Understanding the basis
+
+- Complete!
+
 [Back To The Top](#flexbox-simplified)
