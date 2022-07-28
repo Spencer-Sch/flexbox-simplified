@@ -34,4 +34,8 @@ Tracking my progress through the course.
 
 - Complete!
 
+#### Section 6: To wrap or not to wrap
+
+- Complete!
+
 [Back To The Top](#flexbox-simplified)
