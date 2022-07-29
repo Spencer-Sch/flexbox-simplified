@@ -38,4 +38,8 @@ Tracking my progress through the course.
 
 - Complete!
 
+#### Section 7: The magic of margins
+
+- Complete!
+
 [Back To The Top](#flexbox-simplified)
