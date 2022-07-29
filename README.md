@@ -50,4 +50,8 @@ Tracking my progress through the course.
 
 - Complete!
 
+#### Section 10: Patterns and Layouts
+
+- Complete!
+
 [Back To The Top](#flexbox-simplified)
