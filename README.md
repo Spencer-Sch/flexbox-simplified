@@ -42,4 +42,8 @@ Tracking my progress through the course.
 
 - Complete!
 
+#### Section 8: The future is here (gap)
+
+- Complete!
+
 [Back To The Top](#flexbox-simplified)
