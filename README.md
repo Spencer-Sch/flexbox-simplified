@@ -46,4 +46,8 @@ Tracking my progress through the course.
 
 - Complete!
 
+#### Section 9: Flex grow, revisited
+
+- Complete!
+
 [Back To The Top](#flexbox-simplified)
